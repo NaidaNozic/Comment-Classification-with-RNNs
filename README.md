@@ -1,2 +1,2 @@
-# Comment-Classificatopn-with-Recurrent-Neural-Networks
+# Comment-Classification-with-Recurrent-Neural-Networks
 Deep Learning Project
